@@ -9,8 +9,7 @@ export const metadata = pageMetadata({
   title: "Contact 343 Consultants | Renewable Energy Project Management Australia",
   description:
     "Contact 343 Consultants to discuss project management, construction management, safety or risk support for renewable energy, solar, wind and infrastructure projects in Australia.",
-  path: "/contact",
-  image: "/images/hero-renewable-site.jpg"
+  path: "/contact"
 });
 
 export default function ContactPage() {
