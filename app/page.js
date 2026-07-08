@@ -51,7 +51,7 @@ export default function HomePage() {
           <div className="stat-grid">
             <StatCard value="15+" label="Years of Military Experience" />
             <StatCard value="5" label="Operational Deployments" />
-            <StatCard value="$1.6B" label="Over 1.6 billion in projects completed" />
+            <StatCard value="$1.6B" label="Renewable Development Listed on Current Site" />
           </div>
         </div>
       </section>
