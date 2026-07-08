@@ -23,7 +23,7 @@ export default function HomePage() {
         </div>
         <div className="hero-copy">
           <p className="eyebrow">Renewable energy project leadership</p>
-          <h1>Project and construction management for renewable energy and infrastructure projects.</h1>
+          <h1>Project delivery for renewable energy.</h1>
           <p>
             343 Consultants supports complex Australian renewable energy, solar, wind, construction and infrastructure projects from planning through to delivery with a focus on safety, efficiency and results.
           </p>
